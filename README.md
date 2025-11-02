@@ -1,54 +1,70 @@
-# 👋 Hi, I'm Vaibhav Uttam Jagtap  
-💻 MERN Stack Developer | 🚀 Passionate About Building Scalable Web Solutions  
+# 👋 Hi, I'm **Vaibhav Uttam Jagtap**  
+💻 *MERN Stack Developer | Building Scalable & Modern Web Experiences*
 
 ---
 
 ## 🧠 About Me  
-🎓 Pursuing **MSc in Computer Applications** at Modern College of Arts, Commerce & Science, Pune  
-💼 Focused on full-stack development using **React.js**, **Node.js**, **Express.js**, and **MongoDB**  
-🌱 Currently learning **Next.js**, **TypeScript**, and **Cloud Deployment**  
-⚡ I love creating fast, modern, and user-friendly web applications  
-🎯 Always improving code quality and exploring new technologies  
+🎓 Pursuing **MSc in Computer Applications** at *Modern College of Arts, Commerce & Science, Pune*  
+💼 Specializing in **Full Stack Development** — React.js | Node.js | Express.js | MongoDB  
+🌱 Currently exploring **Next.js**, **TypeScript**, and **Cloud Deployments**  
+🚀 Passionate about building **fast, reliable, and user-friendly** web applications  
+✨ Striving for clean code, performance, and great UX  
 
 ---
 
 ## 🧰 Tech Stack  
-**Frontend:** React.js | Next.js | HTML | CSS | JavaScript | Tailwind CSS  
-**Backend:** Node.js | Express.js | REST APIs  
-**Database:** MongoDB | MySQL  
-**Tools & Platforms:** Git | GitHub | Postman | VS Code | Figma | Render | Vercel  
+
+| **Category** | **Technologies** |
+|---------------|------------------|
+| **Frontend** | React.js • Next.js • HTML • CSS • JavaScript • Tailwind CSS |
+| **Backend** | Node.js • Express.js • REST APIs |
+| **Database** | MongoDB • MySQL |
+| **Tools & Platforms** | Git • GitHub • Postman • VS Code • Figma • Render • Vercel |
 
 ---
 
-## 📊 GitHub Stats  
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavjagtap&show_icons=true&theme=github_dark&hide_border=true)  
+## 📊 GitHub Insights  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavjagtap&layout=compact&theme=github_dark&hide_border=true)  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavjagtap&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavjagtap&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 Achievements  
-🏅 Built and deployed multiple full-stack MERN projects  
-⚙️ Created a real-time collaboration tool using WebSockets  
-🌐 Deployed apps on Render, Vercel, and MongoDB Atlas  
-📈 Consistent GitHub contributions and open-source participation  
+
+- 🧩 Built and deployed **multiple full-stack MERN projects**  
+- ⚙️ Developed a **real-time collaboration tool** using WebSockets  
+- 🌐 Hosted live apps on **Render, Vercel, and MongoDB Atlas**  
+- 📈 Consistent **GitHub contributor** & **open-source enthusiast**  
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavjagtap)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:yourname@gmail.com)  
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/vaibhavjagtap"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧩 Fun Section  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Clean+Code+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)  
+## 💡 Fun Section  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=vaibhavjagtap&theme=darkhub&margin-w=15&no-frame=true)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&width=435&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Clean+Code+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhavjagtap&color=blueviolet)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavjagtap&theme=tokyonight&margin-w=15&no-frame=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaibhavjagtap&label=Profile+Views&color=blueviolet&style=flat-square" />
+</p>
 
 ---
 
-⭐ *"Building reliable, fast, and modern web applications — one line of code at a time."*
+⭐ *"Turning ideas into elegant, high-performance web experiences — one line at a time."*
